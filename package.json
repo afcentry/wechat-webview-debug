@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/hbrls/wechat-webview-debug.git"
+    "url": "https://github.com/wechat-developer/wechat-webview-debug.git"
   },
   "keywords": [
     "wechat",
@@ -17,9 +17,9 @@
   "author": "shuaizhexu@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hbrls/wechat-webview-debug/issues"
+    "url": "https://github.com/wechat-developer/wechat-webview-debug/issues"
   },
-  "homepage": "https://github.com/hbrls/wechat-webview-debug",
+  "homepage": "https://github.com/wechat-developer/wechat-webview-debug",
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-rename": "1.2.2",
